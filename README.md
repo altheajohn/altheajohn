@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am Althea from the Navajo Nation and currently reisde in Aurora, CO. I just completed the Flatiron School Software Engineering Program. Here I learned how to build a CRUD website with a React frontend and Ruby on Rails backend. I enjoy wireframing, ui, ux and design in general. 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=altheajohn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **altheajohn/altheajohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
