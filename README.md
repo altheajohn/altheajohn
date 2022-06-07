@@ -4,8 +4,11 @@
 
 I am Althea from the Navajo Nation and currently reisde in Aurora, CO. I just completed the Flatiron School Software Engineering Program. I learned how to build a CRUD website with a React frontend and Ruby on Rails as the backend. I enjoy wire framing, ui, ux and design in general. 
 
-Skills: JS / REACT / RUBY/ HTML/Sinatra/PostgreSQL / Adobe Illustrator/ Adobe Photoshop/ CSS: Semantic UI, Bootstrap, Material UI, Antd UI, Tailwind
-
+- 🔭 I’m currently working on learning front and backend development and finishing up my Byjoe Store and personal website. 
+- 🌱 I’m currently learning Active Storage, Email integrations. Later in the Month: Python. 
+- 🤔 I’m looking for help with senior engineering mentorship, on the engineering side. 
+- 👯 I’m looking to collaborate with other front-end web developers
+- 😄 Pronouns: She/Her 
 
 ### Languages and Tools:
 
@@ -20,16 +23,11 @@ Skills: JS / REACT / RUBY/ HTML/Sinatra/PostgreSQL / Adobe Illustrator/ Adobe Ph
 <img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" style="padding-right:10px;" />
-
-<br />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <br />
 
-- 🔭 I’m currently working on learning front and backend development and finishing up my Byjoe Store and personal website. 
-- 🌱 I’m currently learning Active Storage, Email integrations. Later in the Month: Python. 
-- 🤔 I’m looking for help with senior engineering mentorship, on the engineering side. 
-- 👯 I’m looking to collaborate with other front-end web developers
-- 😄 Pronouns: She/Her 
+Skills: JS / REACT / RUBY/ HTML/Sinatra/PostgreSQL / Adobe Illustrator/ Adobe Photoshop/ CSS: Semantic UI, Bootstrap, Material UI, Antd UI, Tailwind
+<br />
 
 ### Connect with me:
 
