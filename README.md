@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Althea
 #### Design and Development
-![Design and Development]
 
 I am Althea from the Navajo Nation and currently reisde in Aurora, CO. I just completed the Flatiron School Software Engineering Program. I learned how to build a CRUD website with a React frontend and Ruby on Rails as the backend. I enjoy wire framing, ui, ux and design in general. 
 
