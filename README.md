@@ -34,16 +34,7 @@ Skills: JS / REACT / RUBY/ HTML/Sinatra/PostgreSQL / Adobe Illustrator/ Adobe Ph
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
-&nbsp;&nbsp;
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-&nbsp;&nbsp;
-<!-- [![discord](./img/linkedin-light.svg)](https://linkedin.com/in/althea-john-20293a232#gh-light-mode-only)
-[![discord](./img/linkedin-light.svg)](https://linkedin.com/in/althea-john-20293a232#gh-light-mode-only) -->
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altheajohn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/althea-john-20293a232//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/altheajohn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/althea-john-20293a232//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheajohn)](https://github.com/anuraghazra/github-readme-stats)
 
