@@ -5,7 +5,7 @@ I am Althea from the Navajo Nation. I completed the Flatiron School Software Eng
 - 🤔 I’m looking for help with engineering mentorship. 
 - 👯 I’m looking to collaborate with other front-end web developers
 ### My background in UX and Ops
-Before Flatiron, I worked for Cozykin, the nanny startup. I started as a nanny, and moved into a Care Manager in HQ. As a care manager, I did user experience research with our community of nannies, which we used to design a new nanny share management product to track children’s daily activities and enable communication between nannies and parents. I was also the primary owner of a program we created called Backup Care, which provided on-call nannies to families whenever their assigned nanny called out.  I managed between 15-30 nannies at any given time, and created my own scheduling system using Airtable, Slack and Zapier.
+Before Flatiron, I worked for Cozykin, a nanny startup that was acquired in 2020. I started as a nanny, and moved into a Care Manager in HQ. As a care manager, I did user experience research with our community of nannies, which we used to design a new nanny share management product to track children’s daily activities and enable communication between nannies and parents. I was also the primary owner of a program we created called Backup Care, which provided on-call nannies to families whenever their assigned nanny called out.  I managed between 15-30 nannies at any given time, and created my own scheduling system using Airtable, Slack and Zapier.
 ### Languages and Tools:
 - JavaScript, HTML, and CSS
 - React
@@ -18,6 +18,8 @@ Before Flatiron, I worked for Cozykin, the nanny startup. I started as a nanny, 
 ### Connect with me:
 - [github.com/altheajohn](https://github.com/altheajohn)  
 - [linkedin.com/in/althea-john-20293a232](https://www.linkedin.com/in/althea-john-20293a232/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheajohn)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=altheajohn&show_icons=true)  
+- [twitter.com/theasaurous_co](https://twitter.com/theasaurous_co)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheajohn)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=altheajohn&show_icons=true)  
